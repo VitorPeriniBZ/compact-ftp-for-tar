@@ -27,7 +27,7 @@ use PHPMailer\PHPMailer\Exception;
 try
 {
 	// ---------NOME DA EMPRESA---------
-	$empresa = "COBRAS";
+	$empresa = "Nome_Empresa";
 	$cnpj = "12.345.678/0001-00";
 	$minhaempresa = "TEST"
 
